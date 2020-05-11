@@ -1,0 +1,2 @@
+Prefix plugins/PLSDA-Multiple/example/
+Plugin PLSDA-Multiple inputfile parameters.txt outputfile ChosenGenes_

@@ -1,0 +1,2 @@
+training	plugins/PLSDA-Multiple/example/ViralChallenge_training_EXPRESSION_RMA.tsv
+clinical	plugins/PLSDA-Multiple/example/ViralChallenge_training_CLINICAL.tsv
