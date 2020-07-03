@@ -1,8 +1,9 @@
-# PLSDA-multiple
+# PLSDA-Multiple
 # Language: R
 # Input: TXT (parameters)
 # Output: prefix
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: spls_2.2.3, graphics_4.0.0, caret_6.0.86, mlbench_2.1.1
 
 PluMA plugin that runs Partial Least Squares Discriminant Analysis (PLS-DA, Stahle and Wold 1987) 
 to extract features from a set of viral samples, for the use of downstream analysis.
